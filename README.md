@@ -1,3 +1,6 @@
+<img width="1184" alt="Logo" src="https://user-images.githubusercontent.com/62325347/79015296-1e2a1880-7b8a-11ea-803b-8798b4c5eff9.png">
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
