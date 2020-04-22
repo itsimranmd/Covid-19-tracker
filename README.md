@@ -1,6 +1,6 @@
 <img width="1184" alt="Logo" src="https://user-images.githubusercontent.com/62325347/79015296-1e2a1880-7b8a-11ea-803b-8798b4c5eff9.png">
 
-![Covid-19](https://user-images.githubusercontent.com/62325347/80019936-e5793000-84f5-11ea-9f05-76405e0b3d00.gif)
+![Covid-19](https://user-images.githubusercontent.com/62325347/80020515-cfb83a80-84f6-11ea-8b2d-27d02a793339.gif)
 
 
 
