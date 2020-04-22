@@ -1,5 +1,8 @@
 <img width="1184" alt="Logo" src="https://user-images.githubusercontent.com/62325347/79015296-1e2a1880-7b8a-11ea-803b-8798b4c5eff9.png">
 
+![Covid-19](https://user-images.githubusercontent.com/62325347/80019936-e5793000-84f5-11ea-9f05-76405e0b3d00.gif)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
